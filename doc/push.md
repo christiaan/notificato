@@ -1,5 +1,5 @@
 # Pushing messages
-Before you can start pushing make sure you have [generated a PEM certificate](certificate.md) you'll need this before you can start pushing. Ready? We'll lets push something!
+Before you can start pushing make sure you have [generated a PEM certificate](certificate.md) you'll need this before you can start pushing. Ready? Lets push something!
 
 ## My first pushmessage
 In this example we'll send one pushmessage to a device. It's the most basic example to give you an idea of how Notificato works:
